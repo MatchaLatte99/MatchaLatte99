@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Matcha and I'm a Human, from Singapore</h2>
+<div align="CENTER"><img align="CENTER" height="150" src="https://pa1.narvii.com/6431/7cf2cdef004c79bb748edb6f2beaaa001b3b8231_hq.gif"  /></div>
 
 ###
 
@@ -9,9 +10,11 @@
 
 ###
 
-<img align="right" height="150" src="https://pa1.narvii.com/6431/7cf2cdef004c79bb748edb6f2beaaa001b3b8231_hq.gif"  />
 
+<div align="CENTER">
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11126399212&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 ###
 
